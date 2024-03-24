@@ -41,7 +41,8 @@ dotnet build  Lab14_Ex05
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
-
+<img width="454" alt="ภาพถ่ายหน้าจอ 2567-03-25 เวลา 04 40 19" src="https://github.com/VisawaPRO/03376836-OOP-2566-Lab-14/assets/144195555/81c086d9-316a-4efc-9584-26b75381dde5">
+### สามารถ Build ได้ เพราะ Method Swap ซึ่งเป็น Generic static method ที่รับ พารามิเตอร์ ref T a, ref T b
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -49,5 +50,11 @@ dotnet run --project Lab14_Ex05
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
-
+<img width="450" alt="ภาพถ่ายหน้าจอ 2567-03-25 เวลา 04 40 35" src="https://github.com/VisawaPRO/03376836-OOP-2566-Lab-14/assets/144195555/4f352050-4fd9-4517-9102-3ce046e4c905">
+### สามารถ Run ได้ เพราะ static method ซึ่งทำให้เราสามารถเรียกใช้งานเมท็อดนี้ได้โดยตรงจากคลาส Generic
 7.อธิบายสิ่งที่พบในการทดลอง
+### โปรแกรมแสดง
+### Before Swap: a = 20, b = 30
+### After Swap: a = 30, b = 20
+### Before Swap: h = Hello, w = World
+### After Swap: h = World, w = Hello
