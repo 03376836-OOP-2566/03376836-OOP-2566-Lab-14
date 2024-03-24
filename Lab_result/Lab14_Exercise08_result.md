@@ -2,7 +2,7 @@
 
 ![pic](/Pictures/pic-15.png)
 
-สามารถ Build ได้ เพราะ ใช้ System.Collections.Generic ในการทำ Queue< int > แบบ Generic 
+สามารถ Build ได้ เพราะ ใช้ System.Collections.Generic ในการทำ Queue< int > แบบ Generic เพื่อสร้าง Queue ที่รับข้อมูลประเภท int
 
 ## บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
