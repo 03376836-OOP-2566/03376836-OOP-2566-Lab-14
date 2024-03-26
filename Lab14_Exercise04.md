@@ -36,6 +36,9 @@ dotnet build  Lab14_Ex04
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+
+<img width="540" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-14/assets/144195963/346dee28-d5b8-4522-958d-3a25a62636d3">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -44,4 +47,14 @@ dotnet run --project Lab14_Ex04
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="518" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-14/assets/144195963/f3a53d9c-6664-427c-bded-8bb5bb140917">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมแสดง
+
+10
+
+Hello World
+
+12345.678
