@@ -42,6 +42,8 @@ dotnet build  Lab14_Ex01
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="453" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-14/assets/144195963/64759bc7-5f9a-4832-b728-f5c8fca8cab9">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -50,4 +52,16 @@ dotnet run --project Lab14_Ex01
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="458" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-14/assets/144195963/5d8f4bc8-c556-43e7-a870-78b817679814">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมแสดง
+
+5
+
+Type of IntCal is Calculator`1[System.Int32]
+
+5.5
+
+Type of IntCal is Calculator`1[System.Single]
