@@ -48,6 +48,8 @@ dotnet build  Lab14_Ex08
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="605" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-14/assets/144195963/86861a04-d193-4298-86fa-c4c69300147f">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -56,4 +58,26 @@ dotnet run --project Lab14_Ex08
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="548" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-14/assets/144195963/933fecd3-a2fa-40af-ba5e-c3cfd19bba61">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมแสดง
+
+Add 3 elements (5, 10, 15)
+
+Items in queue:
+
+5
+
+10
+
+15
+
+Remove first item in queue : 5
+
+Remaining items in queue:
+
+10
+
+15
