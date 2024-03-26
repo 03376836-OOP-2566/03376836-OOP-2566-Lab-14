@@ -54,6 +54,10 @@ dotnet build  Lab14_Ex09
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![9](https://github.com/Siriratda/03376836-OOP-2566-Lab-14/assets/144195995/22adf58e-1298-4518-9a0c-11fac42744e2)
+
+สามารถ Build ได้ เพราะ ใช้ System.Collections.Generic ในการทำ Queue< string > แบบ Generic
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -62,4 +66,49 @@ dotnet run --project Lab14_Ex09
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![9 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-14/assets/144195995/6a0d8370-3346-4abd-abf3-b1e9f2e7d519)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+สามารถ Run ได้ เพราะ ชื่อของดาวเคราะห์ทั้งหมดที่เพิ่มเข้าไปใน Queue โดยใช้ลูป foreach เพื่อวนลูปผ่านข้อมูลทั้งหมดใน Queue
+
+โปรแกรมแสดง
+
+Add planets (Mercury to Pluto) -Items in queue:
+
+Mercury
+
+Venus
+
+Earth
+
+Mars
+
+Jupiter
+
+Saturn
+
+Uranus
+
+Neptune
+
+Pluto
+
+Remove first item in queue : Mercury
+
+Remaining items in queue:
+
+Venus
+
+Earth
+
+Mars
+
+Jupiter
+
+Saturn
+
+Uranus
+
+Neptune
+
+Pluto
