@@ -54,6 +54,8 @@ dotnet build  Lab14_Ex07
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="524" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-14/assets/144195963/0129648d-d7a9-4122-bfa3-c1f7d9267e22">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -62,4 +64,32 @@ dotnet run --project Lab14_Ex07
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="622" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-14/assets/144195963/bf3bfee7-1263-4a3b-99eb-2c7b5eb52b2c">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมแสดง
+
+OOP
+
+Network
+
+Electronics
+
+Web programming
+
+3687
+
+3785
+
+3781
+
+3722
+
+3687 OOP
+
+3785 Network
+
+3781 Electronics
+
+3722 Web programming
