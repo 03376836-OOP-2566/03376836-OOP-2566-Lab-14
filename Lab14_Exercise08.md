@@ -48,6 +48,10 @@ dotnet build  Lab14_Ex08
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![8](https://github.com/Siriratda/03376836-OOP-2566-Lab-14/assets/144195995/d7d44ef4-2c4f-4828-9758-35559a4a4419)
+
+สามารถ Build ได้ เพราะ ใช้ System.Collections.Generic ในการทำ Queue< int > แบบ Generic
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -56,4 +60,28 @@ dotnet run --project Lab14_Ex08
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![8 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-14/assets/144195995/d980a02e-2b57-42e5-9b42-2ca8d044f218)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+สามารถ Run ได้ เพราะ แสดงข้อมูลทั้งหมดใน Queue โดยใช้ foreach เพื่อวนลูปผ่านข้อมูลทั้งหมดใน Queue
+
+โปรแกรมแสดง
+
+Add 3 elements (5, 10, 15)
+
+Items in queue:
+
+5
+
+10
+
+15
+
+Remove first item in queue : 5
+
+Remaining items in queue:
+
+10
+
+15
