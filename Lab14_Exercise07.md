@@ -54,6 +54,10 @@ dotnet build  Lab14_Ex07
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![7](https://github.com/Siriratda/03376836-OOP-2566-Lab-14/assets/144195995/e15023c9-b830-4039-a275-2d6ac88a3d02)
+
+สามารถ Build ได้ เพราะ สร้าง List string สำหรับเก็บชื่อคอร์สและ List int สำหรับเก็บรหัสคอร์ส
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -62,4 +66,34 @@ dotnet run --project Lab14_Ex07
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![7 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-14/assets/144195995/4502462c-f2fe-49ae-8506-5115b3556fe3)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+สามารถ Run ได้ เพราะ ใช้การวนซ้ำ foreach และ for เพื่อแสดงผลข้อมูลทั้งสอง List
+7.อธิบายสิ่งที่พบในการทดลอง
+
+
+OOP
+
+Network
+
+Electronics
+
+Web programming
+
+3687
+
+3785
+
+3781
+
+3722
+
+3687 OOP
+
+3785 Network
+
+3781 Electronics
+
+3722 Web programming
