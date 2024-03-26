@@ -54,6 +54,8 @@ dotnet build  Lab14_Ex09
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="521" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-14/assets/144195963/49b6b30c-d8e0-4c74-b073-cdde8988932f">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -62,4 +64,48 @@ dotnet run --project Lab14_Ex09
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="457" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-14/assets/144195963/0981914d-f9bf-4865-bbb3-263f6a45ad5f">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมแสดง
+
+Add planets (Mercury to Pluto) -Items in queue:
+
+Mercury
+
+Venus
+
+Earth
+
+Mars
+
+Jupiter
+
+Saturn
+
+Uranus
+
+Neptune
+
+Pluto
+
+Remove first item in queue : Mercury
+
+Remaining items in queue:
+
+Venus
+
+Earth
+
+Mars
+
+Jupiter
+
+Saturn
+
+Uranus
+
+Neptune
+
+Pluto
