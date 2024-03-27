@@ -53,6 +53,7 @@ dotnet build  Lab14_Ex09
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-14/assets/144195708/4d737f2c-03c6-4e60-9028-0098abfa3413)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -61,5 +62,7 @@ dotnet run --project Lab14_Ex09
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-14/assets/144195708/23e0e23f-8ed2-49bf-b6e7-8747c2a84d2c)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+การทดลองนี้เป็นการใช้งาน Queue<T> ใน C# ซึ่งเป็นโครงสร้างข้อมูลแบบ FIFO (First-In-First-Out) ที่ใช้สำหรับจัดเก็บข้อมูลในลำดับที่เข้ามาก่อนถูกนำออกก่อนด้วยคำสั่ง Enqueue และ Dequeue
