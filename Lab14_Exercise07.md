@@ -53,6 +53,7 @@ dotnet build  Lab14_Ex07
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-14/assets/144195708/6f05bfc4-6e01-442a-a7a7-679c51802b3f)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -61,5 +62,8 @@ dotnet run --project Lab14_Ex07
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-14/assets/144195708/81af6701-cd6b-4198-84db-b7afebdee2ad)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+มีการใช้งาน List<T> ใน C# ซึ่งเป็น generic collection ที่ใช้สำหรับเก็บข้อมูลแบบ dynamic array โดยเฉพาะในที่นี้ใช้งานกับข้อมูลประเภท string และ int
