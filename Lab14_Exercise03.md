@@ -36,6 +36,7 @@ dotnet build  Lab14_Ex03
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-14/assets/144195611/d455f747-9298-4a52-8db2-cd1dc7a62d88)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -44,5 +45,7 @@ dotnet run --project Lab14_Ex03
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-14/assets/144195611/db215f3c-d007-450c-a5df-203ee3319612)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+- ใช้ Generic method Show<T> ซึ่งเป็นเมทอดที่ใช้ Generic type parameter T ในการรับพารามิเตอร์และการสร้างข้อความเอาไว้แสดงผลในคอนโซล (Console)
