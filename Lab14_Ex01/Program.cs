@@ -1,20 +1,22 @@
-﻿// See https://aka.ms/new-console-template for more information
-var IntCal = new Calculator<int>();
-var IntResult = IntCal.Add(2, 3);
-System.Console.WriteLine(IntResult);
-System.Console.WriteLine("Type of IntCal is " + IntCal.GetType());
+﻿var name = new DataStore<string>();
+name.value = "Name LName";
+System.Console.WriteLine(name.value);
 
-var FloatCal = new Calculator<float>();
-var FloatResult = FloatCal.Add(2.5f, 3f);
-System.Console.WriteLine(FloatResult);
-System.Console.WriteLine("Type of IntCal is " + FloatCal.GetType());
+var id = new DataStore<int>();
+id.value = 1234;
+System.Console.WriteLine(id.value);
 
-class Calculator<T>
+var gpa = new DataStore<float>();
+gpa.value = 3.45f;
+System.Console.WriteLine(gpa.value);
+
+public class DataStore<T>
 {
-    public T Add(T a, T b)
+    private T data;
+    public T value
     {
-        dynamic? number1 = a;
-        dynamic? number2 = b;
-        return number1 + number2;
+        get { return this.data; }
+        set { this.data = value; }
     }
+
 }
