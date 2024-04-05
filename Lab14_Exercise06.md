@@ -47,3 +47,11 @@ dotnet run --project Lab14_Ex06
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-14/assets/144197034/b3081226-a4bc-44be-a7db-420ad0a317b3)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โค้ดนี้ใช้ Generic Class ARL ARL มี method DisplayData ที่ return ค่า data เอง
+โค้ดแสดงตัวอย่าง ARL กับ string ("Ladkrabang") และ float (15.0f)
+Generic Class ช่วยให้สร้าง class ที่ใช้งานได้กับหลายประเภทข้อมูล
+รายละเอียดผลลัพธ์
+Next station : Ladkrabang
+Fare    : ฿15.0
+
