@@ -54,3 +54,9 @@ dotnet run --project Lab14_Ex01
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-14/assets/144197034/08e94483-d5c3-4585-94a0-580990a6ab6c)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+คลาส Calculator ทำงานได้กับชนิดข้อมูล int และ float
+เมธอด Add ของคลาส Calculator สามารถบวกตัวเลขสองตัวที่มีชนิดข้อมูล T เดียวกัน
+โค้ดแสดงผลลัพธ์การบวกและชนิดข้อมูลของ IntCal และ FloatCal
+โค้ดนี้เป็นตัวอย่างง่ายๆ ของการใช้ Generic Class
+
