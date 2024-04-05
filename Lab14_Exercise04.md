@@ -47,3 +47,12 @@ dotnet run --project Lab14_Ex04
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-14/assets/144197034/6f54fc2f-d82b-44cd-9b71-553013e3e6d5)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โค้ดนี้ใช้ Generic Method Print
+ Print แสดงค่าตามประเภทข้อมูล
+โค้ดแสดงตัวอย่าง Print กับ int, string, และ double
+Generic Method ช่วยให้โค้ดสั้นลงและใช้งานได้กับหลายประเภทข้อมูล
+แสดงค่า 10 (ชนิด int)
+แสดงข้อความ "Hello World" (ชนิด string)
+แสดงค่า 12345.678 (ชนิด double)
+
