@@ -53,7 +53,6 @@ dotnet run --project Lab14_Ex03
 Show แสดงข้อความและค่าตามประเภทข้อมูล
 โค้ดแสดงตัวอย่าง Show กับ int, float, decimal และ string
 Generic Method ช่วยให้โค้ดสั้นลงและใช้งานได้กับหลายประเภทข้อมูล
-แสดงผลรวมของ 2 + 3 = 5
-แสดงผลลัพธ์ของ 2.5 + 3.5 = 6
+แสดงผลรวมของตัวเลขและ
 แสดงผลลัพธ์ของ "Hello" + "World" = "HelloWorld"
 โค้ดนี้แสดงวิธีใช้ Operator Overloading กับ "+"
