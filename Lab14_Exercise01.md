@@ -59,4 +59,8 @@ dotnet run --project Lab14_Ex01
 เมธอด Add ของคลาส Calculator สามารถบวกตัวเลขสองตัวที่มีชนิดข้อมูล T เดียวกัน
 โค้ดแสดงผลลัพธ์การบวกและชนิดข้อมูลของ IntCal และ FloatCal
 โค้ดนี้เป็นตัวอย่างง่ายๆ ของการใช้ Generic Class
+ผลลัพธ์การบวก 2 + 3 = 5 (ชนิด int)
+ชนิดข้อมูลของ IntCal คือ Calculator เก็บข้อมูล int
+ผลลัพธ์การบวก 2.5f + 3f = 5.5 (ชนิด float)
+ชนิดข้อมูลของ FloatCal คือ Calculator เก็บข้อมูล float
 
