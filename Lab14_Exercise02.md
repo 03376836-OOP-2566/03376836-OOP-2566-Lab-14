@@ -56,3 +56,11 @@ dotnet run --project Lab14_Ex02
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-14/assets/144197034/541ad6f5-4d1c-4d35-b396-cac1f6288607)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+คลาส DataStore ทำงานได้กับชนิดข้อมูล string int และ float
+โค้ดสามารถเก็บและดึงข้อมูล string int และ float ผ่าน property value
+โค้ดแสดงผลลัพธ์ของ property value
+โค้ดนี้เป็นตัวอย่างง่ายๆ ของการใช้ Generic Class
+แสดงชื่อ "Name LName" (ชนิด string)
+แสดง ID "1234" (ชนิด int)
+แสดงค่า GPA "3.45" (ชนิด float)
