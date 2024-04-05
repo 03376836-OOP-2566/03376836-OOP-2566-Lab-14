@@ -31,6 +31,7 @@ class Calculator<T>
     }
 }
 ```
+![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-14/assets/144197034/dd2a8b45-6921-4ab6-a514-14e266a0ea12)
 
 3.Build project โดยการใช้คำสั่ง
 
