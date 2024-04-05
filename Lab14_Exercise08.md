@@ -59,3 +59,11 @@ dotnet run --project Lab14_Ex08
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-14/assets/144197034/249d89cf-2c0f-4f56-96da-e6dc7439c7fc)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+
+โค้ดสร้าง Queue ชื่อ numbers เพื่อเก็บข้อมูลตัวเลข
+โค้ดใช้ Enqueue เพิ่ม 5, 10, 15 ลงใน Queue
+โค้ดใช้ foreach วนซ้ำแสดงข้อมูลใน Queue
+โค้ดใช้ Dequeue ลบข้อมูลตัวแรกออกจาก Queue
+โค้ดใช้ foreach วนซ้ำแสดงข้อมูลที่เหลือใน Queue
+โค้ดนี้สาธิตการใช้ Queue เพื่อเก็บและจัดการข้อมูลแบบ First-In-First-Out (FIFO) ซึ่งข้อมูลตัวแรกที่เข้าจะออกจาก Queue เป็นลำดับแรก โดยใช้เมธอด Enqueue และ Dequeue เพื่อเพิ่มและลบข้อมูลตามลำดับ
