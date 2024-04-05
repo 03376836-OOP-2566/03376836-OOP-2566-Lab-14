@@ -42,6 +42,7 @@ dotnet build  Lab14_Ex01
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-14/assets/144197034/0a2ed955-04ff-4526-9617-a95763c8f062)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -50,5 +51,6 @@ dotnet run --project Lab14_Ex01
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-14/assets/144197034/08e94483-d5c3-4585-94a0-580990a6ab6c)
 
 7.อธิบายสิ่งที่พบในการทดลอง
