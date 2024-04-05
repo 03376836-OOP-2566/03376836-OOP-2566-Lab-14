@@ -48,6 +48,7 @@ dotnet run --project Lab14_Ex03
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-14/assets/144197034/f3a0e801-bc13-4df3-b736-570170d5c18b)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
 โค้ดนี้ใช้ Generic Method Show
 Show แสดงข้อความและค่าตามประเภทข้อมูล
 โค้ดแสดงตัวอย่าง Show กับ int, float, decimal และ string
